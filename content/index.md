@@ -10,4 +10,4 @@ Short thoughts on [Leadership].
 
 ## Recent Articles
 
-Check back soon for new posts.
+[[first post]]
